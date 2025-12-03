@@ -43,9 +43,14 @@ I update this journey regularly as I learn and improve.
 ---
 
 ## 📂 Projects
-### 🔗 SQL Music Store Analysis  
+### 🎵 SQL Music Store Analysis  
 A complete SQL analysis project using the Chinook music store database.  
 **Repo:** https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis  
+
+### 🛒 Power BI – Amazon Global Sales Dashboard  
+An interactive Power BI dashboard providing insights into global sales, customer behavior,  
+product performance, and regional sales distribution.  
+**Repo:** https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard  
 
 More projects coming soon… 🚀
 
