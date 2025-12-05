@@ -52,6 +52,11 @@ An interactive Power BI dashboard providing insights into global sales, customer
 product performance, and regional sales distribution.  
 **Repo:** https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard  
 
+###🏏 Power BI – Virat Kohli Performance Dashboard  
+A Power BI dashboard showcasing Virat Kohli’s ODI & T20 performance with insights on runs,
+strike rate, centuries, venues, and match contributions.  
+**Repo:** https://github.com/AmanVishwakarma-Data/Virat-Kohli-Performance-Dashboard
+
 More projects coming soon… 🚀
 
 ---
