@@ -43,21 +43,33 @@ I update this journey regularly as I learn and improve.
 ---
 
 ## 📂 Projects
+
 ### 🎵 SQL Music Store Analysis  
-A complete SQL analysis project using the Chinook music store database.  
-**Repo:** https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis  
+🗄️ Database: Chinook Music Store  
+🧠 Focus: SQL Queries, Joins, Aggregations, CTEs, Subqueries  
+🔗 Repo: https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis  
+
 
 ### 🛒 Power BI – Amazon Global Sales Dashboard  
-An interactive Power BI dashboard providing insights into global sales, customer behavior,  
-product performance, and regional sales distribution.  
-**Repo:** https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard  
+📊 Insights: Sales Trends, Profitability, Customer Segments, Market Analysis  
+🌍 Visuals: Region Map, Segment Pie, Profit KPIs  
+🔗 Repo: https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard  
+
 
 ### 🏏 Power BI – Virat Kohli Performance Dashboard  
-A Power BI dashboard showcasing Virat Kohli’s ODI & T20 performance with insights on runs,
-strike rate, centuries, venues, and match contributions.  
-**Repo:** https://github.com/AmanVishwakarma-Data/Virat-Kohli-Performance-Dashboard
+👑 Insights: ODI & T20 Performance, Opponent Analysis, Best Grounds  
+📅 Time Intelligence: Year, Quarter, Month Drilldowns  
+🔗 Repo: https://github.com/AmanVishwakarma-Data/Virat-Kohli-Performance-Dashboard  
 
-More projects coming soon… 🚀
+
+### 🧑‍💼 Power BI – HR Analytics Dashboard  
+📉 Insights: Attrition Rate, Salary Slabs, Age Groups, Job Roles  
+👥 HR Focus: Workforce Health, Retention Analysis  
+🔗 Repo: https://github.com/AmanVishwakarma-Data/HR-Analytics-Dashboard  
+
+
+🚀 More projects coming soon…
+
 
 ---
 
