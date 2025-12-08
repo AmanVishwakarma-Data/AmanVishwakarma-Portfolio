@@ -47,28 +47,35 @@ I update this journey regularly as I learn and improve.
 ### 🎵 SQL Music Store Analysis  
 🗄️ Database: Chinook Music Store  
 🧠 Focus: SQL Queries, Joins, Aggregations, CTEs, Subqueries  
-🔗 Repo: https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis  
+🔗 Repo: [SQL-Music-Store-Analysis](https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis)  
 
 
 ### 🛒 Power BI – Amazon Global Sales Dashboard  
 📊 Insights: Sales Trends, Profitability, Customer Segments, Market Analysis  
 🌍 Visuals: Region Map, Segment Pie, Profit KPIs  
-🔗 Repo: https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard  
+🔗 Repo: [Amazon-Global-Sales-Dashboard](https://github.com/AmanVishwakarma-Data/Amazon-Global-Sales-Dashboard)  
 
 
 ### 🏏 Power BI – Virat Kohli Performance Dashboard  
 👑 Insights: ODI & T20 Performance, Opponent Analysis, Best Grounds  
 📅 Time Intelligence: Year, Quarter, Month Drilldowns  
-🔗 Repo: https://github.com/AmanVishwakarma-Data/Virat-Kohli-Performance-Dashboard  
+🔗 Repo: [Virat-Kohli-Performance-Dashboard](https://github.com/AmanVishwakarma-Data/Virat-Kohli-Performance-Dashboard)  
 
 
 ### 🧑‍💼 Power BI – HR Analytics Dashboard  
 📉 Insights: Attrition Rate, Salary Slabs, Age Groups, Job Roles  
 👥 HR Focus: Workforce Health, Retention Analysis  
-🔗 Repo: https://github.com/AmanVishwakarma-Data/HR-Analytics-Dashboard  
+🔗 Repo: [HR-Analytics-Dashboard](https://github.com/AmanVishwakarma-Data/HR-Analytics-Dashboard)  
+
+
+### 🎬 Power BI – Netflix Content Analysis Dashboard  
+🍿 Insights: Genres, Maturity Ratings, Release-Year Trends, Actor/Director Popularity  
+📈 Visuals: Yearly Content Growth, Genre Ranking, Movie vs TV Shows  
+🔗 Repo: [Netflix-Content-Analysis-Dashboard](https://github.com/AmanVishwakarma-Data/Netflix-Content-Analysis-Dashboard)  
 
 
 🚀 More projects coming soon…
+
 
 
 ---
