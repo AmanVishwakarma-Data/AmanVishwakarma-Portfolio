@@ -23,11 +23,14 @@ Here I share my complete learning path, skills, goals, and the projects I am bui
 
 ## 📈 Learning Progress
 - ✅ Python Programming Fundamentals  
-- ✅ NumPy & Pandas Mastery  
+- ✅ NumPy & Pandas Mastery
 - ✅ Data Visualization with Matplotlib, Seaborn, Plotly  
 - ✅ GitHub Profile Setup  
-- ✅ SQL Learning  
-- 🔄 Power BI Learning   
+- ✅ MySQL  
+- ✅ Power BI
+- ✅ Tableau
+- ✅ Excel    
+
 
 I update this journey regularly as I learn and improve.
 
