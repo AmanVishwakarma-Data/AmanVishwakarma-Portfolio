@@ -51,7 +51,8 @@ I update this journey regularly as I learn and improve.
 ### 📊 WhatsApp Chat Analysis — Python & Streamlit  
 🗄️ Data: WhatsApp exported `.txt` chat file  
 🧠 Focus: Data Cleaning, Pandas, Regex, Visualization, Streamlit Dashboard  
-🔗 Repo: WhatsApp-Chat-Analysis 
+🔗 Repo: [WhatsApp-Chat-Analysis](https://github.com/AmanVishwakarma-Data/WhatsApp-Chat-Analysis-Python)
+ 
 
 
 ### 🎵 SQL Music Store Analysis  
