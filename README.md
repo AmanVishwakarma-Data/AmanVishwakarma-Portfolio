@@ -29,7 +29,8 @@ Here I share my complete learning path, skills, goals, and the projects I am bui
 - ✅ MySQL  
 - ✅ Power BI
 - ✅ Tableau
-- ✅ Excel    
+- ✅ Excel
+- 🔄 Machin Learning    
 
 
 I update this journey regularly as I learn and improve.
