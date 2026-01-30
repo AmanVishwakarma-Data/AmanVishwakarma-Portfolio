@@ -94,4 +94,5 @@ I update this journey regularly as I learn and improve.
 
 ## 📫 Connect with Me
 - **GitHub:** [AmanVishwakarma-Data](https://github.com/AmanVishwakarma-Data)
+- **LinkedIn:** [Aman Vishwakarma](www.linkedin.com/in/amanv-data)
 
